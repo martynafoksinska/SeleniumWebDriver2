@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Nawigacja {
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
 
         System.setProperty("webdriver.chrome.driver",
                 "src/main/resources/drivers/chromedriver.exe");
